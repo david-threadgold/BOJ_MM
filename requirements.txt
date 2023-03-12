@@ -1,0 +1,9 @@
+sphinx-markdown-builder
+sphinx
+matplotlib
+numpy
+pandas
+python_dateutil
+requests
+openpyxl
+pypdf
